@@ -1,1 +1,1 @@
-#!Student mangment 
+Student mangment 
